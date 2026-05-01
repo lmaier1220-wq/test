@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    margin-top: 50px;
+    align-items: center;
+}
+button{
+    width: 180px;
+}
